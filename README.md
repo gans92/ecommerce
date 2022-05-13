@@ -7,3 +7,25 @@ https://gans92.github.io/ecommerce/public/search
 https://gans92.github.io/ecommerce/public/404
 
 https://gans92.github.io/ecommerce/public/product
+
+# Estrutura do Projeto
+
+- public
+  - css
+    - 404.css
+    - footer.css
+    - home.css
+    - nav.css
+    - product.css
+    - search.css
+  - img
+  - js
+    - footer.js
+    - home.js
+    - nav.js
+    - product.js
+  - 404.html
+  - index.html
+  - product.html
+  - search.html
+- README.md
