@@ -8,7 +8,7 @@ https://gans92.github.io/ecommerce/public/404
 
 https://gans92.github.io/ecommerce/public/product
 
-https://gans92.github.io/ecommerce/public/form
+https://gans92.github.io/ecommerce/public/signup
 
 # Estrutura do Projeto
 
@@ -20,6 +20,7 @@ https://gans92.github.io/ecommerce/public/form
     - nav.css
     - product.css
     - search.css
+    - signup.css
   - img
   - js
     - footer.js
@@ -30,4 +31,5 @@ https://gans92.github.io/ecommerce/public/form
   - index.html
   - product.html
   - search.html
+  - signup.html
 - README.md
