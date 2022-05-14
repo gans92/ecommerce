@@ -1,4 +1,4 @@
-# ecommerce
+# Ecommerce
 
 https://gans92.github.io/ecommerce/public/
 
