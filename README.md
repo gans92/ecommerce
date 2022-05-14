@@ -8,6 +8,8 @@ https://gans92.github.io/ecommerce/public/404
 
 https://gans92.github.io/ecommerce/public/product
 
+https://gans92.github.io/ecommerce/public/form
+
 # Estrutura do Projeto
 
 - public
